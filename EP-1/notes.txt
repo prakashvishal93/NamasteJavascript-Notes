@@ -1,0 +1,3 @@
+Execution Context :
+-> Everything in javascript happens inside a Execution Context. 
+-> It is like a big box. and it has two component in it. 
