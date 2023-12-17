@@ -8,7 +8,7 @@
     -> Second component is called - Code component. This is the place  where code is execute one line at a time. It is also called Thread of Execution.
 
 
-    -This Execution Content is created in two phase:
+    - This Execution Content is created in two phase:
         1. Memory Creation Phase : Critical Phase --->
             In this phase, we were allocating memory to all the Variable and functions inside this global space.
             We allocate Varible with undefined and incase of function we just copy the code of whole function.
@@ -18,8 +18,9 @@
 
 ### JAVASCRIPT:
 
-        -Javascript is a synchronous Single-threaded Language.
+        - Javascript is a synchronous Single-threaded Language.
 
-        -Single threaded means, javascript can execute one command at a time.
+        - Single threaded means, javascript can execute one command at a time.
 
-        -Synchronous-threaded language means, Javascript can only execute one command at a time and  in a specific order. which means it can only go to the next line once the current line is finished executing.
+        - Synchronous-threaded language means, Javascript can only execute one command at a time
+         and in a specific order. which means it can only go to the next line once the current line is finished executing.
