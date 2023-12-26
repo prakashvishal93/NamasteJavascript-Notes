@@ -1,8 +1,3 @@
-# Hoisting In JavaScript :
-
-    Hoisting is a phenomenon in Javascript by which we can access the variables and functions even     before declaring or initialising them.
-    We can access it without any error.
-
 ### Function Declartion : We can declare function in 3 ways: -->
 
         1. Simple way :
